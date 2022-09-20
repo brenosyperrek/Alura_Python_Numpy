@@ -1,1 +1,1 @@
-# python_numpy
+# Curso de numpy da Alura
